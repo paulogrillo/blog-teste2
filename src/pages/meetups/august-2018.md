@@ -3,7 +3,7 @@ templateKey: meetup
 title: August 2018
 date: 2018-08-14T23:00:00.000Z
 presenters:
-  - image: /img/ramy-kabalan-796973-unsplash.jpg
+  - image: /img/humphrey-muleba-795250-unsplash.jpg
     name: Fred Champ
     presentationTitle: Network optimizations 101
     text: >+
